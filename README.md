@@ -3,6 +3,7 @@
 To use this app, you need to have a pre-trained image classification TF Lite model. This app can be used for any custom-trained model. 
 
 ## Steps:
+It is assumed that you already have a TF Lite image classification model of yourself.
 
 1. Clone the repository on your local machine.
 
