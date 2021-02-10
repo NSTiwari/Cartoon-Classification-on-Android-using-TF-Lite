@@ -16,6 +16,6 @@ It is assumed that you already have a TF Lite image classification model of your
 5. Build and run the app on your physical device or on emulator.
 
 ## Output:
-![Output](https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite/tree/main/app/src/main/res/drawable/output.gif)
+![Output](app/src/main/res/drawable/output.gif)
 
 
