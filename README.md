@@ -1,4 +1,4 @@
-# Cartoon-Classification-on-Android-using-TF-Lite
+# Cartoon Classification on Android using TF Lite
 
 To use this app, you need to have a pre-trained image classification TF Lite model. This app can be used for any custom-trained model. 
 
