@@ -18,4 +18,5 @@ It is assumed that you already have a TF Lite image classification model of your
 ## Output:
 ![Output](app/src/main/res/drawable/output.gif)
 
+- Read the [Medium](https://medium.com/tfug-mumbai-weekly/custom-image-classification-on-android-using-tensorflow-lite-9f9b3917a26f) blog
 
